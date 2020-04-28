@@ -18,7 +18,7 @@ Python codes: [https://github.com/synaptic-neurolab/runCAIR_py](https://github.c
 ## The CAIR algorithm
 CAIRs of each given protein is calculated using the following function of the shanon entropy:
 
-<img src="img/entropy_formula.PNG" height="30">  
+<img src="img/entropy_formula.PNG" height="200">  
 
 ## Usage
 
