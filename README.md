@@ -27,7 +27,7 @@ Fire up your python shell or ipython notebook.
 
 Required files to run runCAIR.py are available at:
 
-* [uniprot_sprot.fasta] (https://ftp.expasy.org/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz)(For downloading this file, the FTP link is highly recommended)
+* [uniprot_sprot.fasta](https://ftp.expasy.org/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz) (For downloading this file, the FTP link is highly recommended)
 
 * [uniprot_trembl.fasta](https://ftp.expasy.org/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.fasta.gz)
 
